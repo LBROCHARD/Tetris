@@ -1,5 +1,10 @@
 # Tetris
-Création d'un Tetris en C#
+Le but de ce projet était la re-création du jeu Tetris en C# grâce à la technologie Blazor.
+
+Voici un petit aperçu du rendu :
+
+![Video](https://github.com/LBROCHARD/Tetris/blob/main/tetris%20test.mp4)
+
 
 ## :scroll: Informations
 
