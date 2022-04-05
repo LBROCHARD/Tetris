@@ -3,7 +3,8 @@ Le but de ce projet était la re-création du jeu Tetris en C# grâce à la tech
 
 Voici un petit aperçu du rendu :
 
-![Video](https://github.com/LBROCHARD/Tetris/blob/main/tetris%20test.mp4)
+https://user-images.githubusercontent.com/73283488/161831888-d8ec2a4e-1ca7-4df8-acbd-409a13dcc9af.mp4
+
 
 
 ## :scroll: Informations
